@@ -23,7 +23,7 @@ class Fraction {
 	//将分数转换城double
     double toDouble() {
 		
-    	return 0;
+    	return 1;
 	}
 	//将自己的分数和 r 的分数相加，产生一个新的 Fraction 的对象
 	Fraction plus(Fraction r) {
